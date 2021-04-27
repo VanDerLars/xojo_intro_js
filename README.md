@@ -2,7 +2,7 @@
 
 Intro.js implementation into Xojo Webframework 1.0
 
--> Into.JS: https://introjs.com/
+-> Intro.JS: https://introjs.com/
 
 See the test project, this should give you everthinng you need.
 
